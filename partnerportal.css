@@ -1,0 +1,114 @@
+.container {
+    font-family: 'Open Sans';
+    padding-bottom: 4em;
+}
+
+
+
+
+
+
+
+/*Header*/
+
+.header {
+    padding: 3rem 0 3rem 0;
+}
+
+.headline {
+    font-size: 2.5em;
+    font-weight: 600;
+}
+
+.subline {
+    font-size: 20px;
+    color: #353535;
+}
+
+.btn-logout {
+    padding: .5em 1.2em .5em 1.2em;
+    border-radius: 8px;
+    background-color: #E78E24;
+}
+
+.btn-logout.outline {
+    background: none;
+    padding: 12px 22px;
+}
+
+.btn-primary.outline {
+    border: 2px solid #E78E24;
+    color: #E78E24;
+}
+
+.btn-primary.outline:hover,
+.btn-primary.outline:focus,
+.btn-primary.outline:active,
+.btn-primary.outline.active,
+.open > .dropdown-toggle.btn-primary {
+    color: #33a6cc;
+    border-color: #33a6cc;
+}
+
+
+
+
+
+
+
+
+/*menu*/
+
+.menu {
+    padding-bottom: 3rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*tables*/
+
+.table-bordered {
+    border-radius: 8px;
+}
+
+.headerColor {
+    padding: .7em;
+    background-color: #FCFCFC;
+}
+
+.headerColorON {
+    padding: .7em;
+    background-color: #7DF360;
+}
+
+.headerColorOFF {
+    padding: .7em;
+    background-color: #E9E8E8;
+}
+
+.headerColorNewGroup {
+    padding: .7em;
+    background-color: #2593ED;
+    color: #fff;
+}
+
+.tableTitle {
+    font-weight: 600;
+    font-size: 1.2rem;
+}
+
+.tableSubline {
+    font-style: italic;
+    color: #353535;
+    font-size: .9em;
+}
